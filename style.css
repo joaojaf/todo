@@ -1,0 +1,13 @@
+* {
+    list-style: none;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+li {
+    margin: 1.5rem;
+}
+
+.addItem {
+    background-color: aqua;
+}
